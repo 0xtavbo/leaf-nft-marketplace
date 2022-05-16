@@ -1,9 +1,9 @@
 # **Leaf NFT Marketplace**
 
-## **Descripción**
 
 ## **Tecnologies**
  **HTML**
+ 
  **Sass** (CSS Pre-Processor).
 
 ## **Demo**
